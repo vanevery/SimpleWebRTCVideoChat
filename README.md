@@ -5,8 +5,7 @@ Install node.js on your server
 npm install express@2.5.2
 npm install webrtc.io
 
-Edit dev.html to point to your server and port for the 
-websocket to the node server "ws://www.walking-productions.com:8001/"
+Edit dev.html to point to your server and port for the websocket to the node server "ws://www.walking-productions.com:8001/"
 
 Run the server:
 node server.js
